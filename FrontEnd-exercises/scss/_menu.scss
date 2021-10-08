@@ -39,3 +39,64 @@
     }
   }
 }
+
+// menu overlay
+.menu {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  opacity: 0.9;
+  visibility: hidden;
+
+  //.menu.show
+  &.show {
+    visibility: visible;
+  }
+
+  //.menu-branding (vasen puoli), .menu-nav (oikea puoli)
+  &-branding,
+  &-nav {
+    display: flex;
+    flex-flow: column; //going up and down as opposed to right and left
+    align-items: center;
+    justify-content: center; //align both vertically and horizontally
+    float: left;
+    width: 50%;
+    height: 100vh; //viewport heights, 100 slices, take up the whole thing
+    overflow: hidden; //we never wanna see a scroll bar
+  }
+
+  &-nav {
+    margin: 0;
+    padding: 0;
+    background: darken($primary-color, 5);
+    list-style: none;
+    transform: translate3d(0, -100%, 0); //100% is pushing it down, -100% up
+    @include easeOut;
+
+    &.show {
+      // slide in from top
+      transform: translate3d(0, 0, 0);
+    }
+  }
+
+  //branding side
+  &-branding {
+    background: $primary-color;
+    transform: translate3d(0, 100%, 0);
+    @include easeOut;
+
+    &.show {
+      // slide in from bottom
+      transform: translate3d(0, 0, 0);
+    }
+
+    .portrait {
+      width: 250px;
+      height: 250px;
+      background: url("../img/devices.jpg");
+      border-radius: 50%;
+      border: solid 3px $secondary-color;
+    }
+  }
+}

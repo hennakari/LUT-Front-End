@@ -1,9 +1,9 @@
-# LUT-Front-End
-Software Development Skills: Front-End
+## LUT-Front-End
+### Software Development Skills: Front-End
 
-Henna-Riikka Kari
+#### Henna-Riikka Kari
 
-## Content:
+### Content:
 This repository includes my course material for the LUT course Software Development Skills : Front-End. 
 
 Main folders and their content:
@@ -14,26 +14,26 @@ Main folders and their content:
 * MyProject-Portfolio: this is my version of the 'John Doe' -portfolio 
 
 
-![Portfolio](MyProject-Portfolio/img/POrtfolio-HennaKari.PNG "Portfolio-Henna")
+![Portfolio](MyProject-Portfolio/img/Portfolio-HennaKari.PNG "Portfolio-Henna")
 
-## Have a look at my portfolio here:
+### Have a look at my portfolio here:
 
 > Portfolio - Henna Kari [Portfolio](https://hennakari.github.io/Portfolio/)
 
-### Link to my original GitHub page
+##### Link to my original GitHub page
 
 > GitHub - Henna Kari - Portfolio [Portfolio](https://github.com/hennakari/Portfolio)
 
-### Additional parallax-page is here (just because it's so cool)
+##### Additional parallax-page is here (just because it's so cool)
 
 > Parallax live-version [Parallax](https://hennakari.github.io/Parallax/)
 > Source code [Parallax](https://github.com/hennakari/Parallax)
 
 
-## Short video of my project can be found here::
+### Short video of my project can be found here::
 
 > Video: My Project [Portfolio](linkki)
 
-## And a link to the origininal tutorial
+### And a link to the origininal tutorial
 
 > Responsive Portfolio Website - Traversy Media [Responsive Portfolio Website](https://www.youtube.com/watch?v=gYzHS-n2gqU)

@@ -22,19 +22,19 @@ Main folders and their content:
 
 ##### Link to my original GitHub page
 
-> GitHub - Henna Kari - Portfolio [Portfolio](https://github.com/hennakari/Portfolio)
+> GitHub - Henna Kari [Portfolio](https://github.com/hennakari/Portfolio)
 
 ##### Additional parallax-page is here (just because it's so cool)
 
 > Parallax live-version [Parallax](https://hennakari.github.io/Parallax/)
-> Source code [Parallax](https://github.com/hennakari/Parallax)
+>  & Source code [Parallax](https://github.com/hennakari/Parallax)
 
 
 ### Short video of my project can be found here:
 
 > Video: My Project [Portfolio](https://vimeo.com/671945630/446c12896f)
 
-### And a link to the origininal tutorial
+### And a link to the original tutorial
 
 > Responsive Portfolio Website - Traversy Media [Responsive Portfolio Website](https://www.youtube.com/watch?v=gYzHS-n2gqU)
 

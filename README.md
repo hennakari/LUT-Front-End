@@ -30,10 +30,11 @@ Main folders and their content:
 > Source code [Parallax](https://github.com/hennakari/Parallax)
 
 
-### Short video of my project can be found here::
+### Short video of my project can be found here:
 
-> Video: My Project [Portfolio](linkki)
+> Video: My Project [Portfolio](https://vimeo.com/671945630/446c12896f)
 
 ### And a link to the origininal tutorial
 
 > Responsive Portfolio Website - Traversy Media [Responsive Portfolio Website](https://www.youtube.com/watch?v=gYzHS-n2gqU)
+
